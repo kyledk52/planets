@@ -1,0 +1,4 @@
+#this file will tell what to ignore
+
+*.dat
+results/
